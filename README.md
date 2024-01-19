@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nfeng037&label=Profile%20views&color=0e75b6&style=flat" alt="nfeng037" /> </p>
 
-- 🌱 I’m currently learning **Ruby Rails, Python**
+- 🌱 I’m currently learning **Ruby, Python**
 
 - 📫 How to reach me **nfeng@rrc.ca**
 
